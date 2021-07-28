@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yr98aAKY9yNgIFiuGTszPnMOuW+sBckOQyk1akdn9ORjftWWQNAKyUzP90Tq4ye7t2bTnv4cYTO9dyTB1RPauA==",
+  "dgSpecHash": "u/6XGFAs6HCq2YH5BwZUCc/wWVZLOZ90dk9cCeJqk6ZXr4bnO2ks1TT9jOVVgEKEEGGnK+6w1m0helVWk0AdlQ==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\Teoria\\getaclub\\AcmeApi.csproj",
+  "projectFilePath": "c:\\xampp\\htdocs\\Teoria\\getaclub\\AcmeApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GUSTAVO\\.nuget\\packages\\mailkit\\2.14.0\\mailkit.2.14.0.nupkg.sha512",
     "C:\\Users\\GUSTAVO\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.5\\microsoft.aspnetcore.authentication.jwtbearer.5.0.5.nupkg.sha512",

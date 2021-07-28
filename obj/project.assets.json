@@ -1287,11 +1287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Teoria\\getaclub\\AcmeApi.csproj",
+      "projectUniqueName": "c:\\xampp\\htdocs\\Teoria\\getaclub\\AcmeApi.csproj",
       "projectName": "AcmeApi",
-      "projectPath": "C:\\xampp\\htdocs\\Teoria\\getaclub\\AcmeApi.csproj",
+      "projectPath": "c:\\xampp\\htdocs\\Teoria\\getaclub\\AcmeApi.csproj",
       "packagesPath": "C:\\Users\\GUSTAVO\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Teoria\\getaclub\\obj\\",
+      "outputPath": "c:\\xampp\\htdocs\\Teoria\\getaclub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
