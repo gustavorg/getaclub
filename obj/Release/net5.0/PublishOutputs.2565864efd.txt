@@ -1,0 +1,17 @@
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\AcmeApi.exe
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\appsettings.Development.json
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\appsettings.json
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\omnisharp.json
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\AcmeApi.dll
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\AcmeApi.deps.json
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\AcmeApi.runtimeconfig.json
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\AcmeApi.pdb
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\Microsoft.IdentityModel.Logging.dll
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\Microsoft.IdentityModel.Protocols.dll
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\Microsoft.IdentityModel.Tokens.dll
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\MySqlConnector.dll
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\Newtonsoft.Json.dll
+C:\xampp\htdocs\Teoria\getaclub\bin\Release\net5.0\publish\System.IdentityModel.Tokens.Jwt.dll

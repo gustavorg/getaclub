@@ -1,0 +1,17 @@
+C:\xampp\htdocs\Teoria\getaclub\out\AcmeApi.exe
+C:\xampp\htdocs\Teoria\getaclub\out\appsettings.Development.json
+C:\xampp\htdocs\Teoria\getaclub\out\appsettings.json
+C:\xampp\htdocs\Teoria\getaclub\out\omnisharp.json
+C:\xampp\htdocs\Teoria\getaclub\out\AcmeApi.dll
+C:\xampp\htdocs\Teoria\getaclub\out\AcmeApi.deps.json
+C:\xampp\htdocs\Teoria\getaclub\out\AcmeApi.runtimeconfig.json
+C:\xampp\htdocs\Teoria\getaclub\out\AcmeApi.pdb
+C:\xampp\htdocs\Teoria\getaclub\out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\xampp\htdocs\Teoria\getaclub\out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\xampp\htdocs\Teoria\getaclub\out\Microsoft.IdentityModel.Logging.dll
+C:\xampp\htdocs\Teoria\getaclub\out\Microsoft.IdentityModel.Protocols.dll
+C:\xampp\htdocs\Teoria\getaclub\out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\xampp\htdocs\Teoria\getaclub\out\Microsoft.IdentityModel.Tokens.dll
+C:\xampp\htdocs\Teoria\getaclub\out\MySqlConnector.dll
+C:\xampp\htdocs\Teoria\getaclub\out\Newtonsoft.Json.dll
+C:\xampp\htdocs\Teoria\getaclub\out\System.IdentityModel.Tokens.Jwt.dll
